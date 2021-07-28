@@ -56,5 +56,9 @@
 		"sqlite3": "",
 		"string-similarity": "",
 		"totp-generator": ""
+		"engines":{
+		"node":"14.7.13"
+},
+
 	}
 }
